@@ -1,0 +1,59 @@
+Biomechanics Bootcamp Video tutorial index
+
+Video Title: Mathematica: Plot vs. ListPlot: Two ways to plot curves
+Length:5:11
+This video supplements: Biomechanics Bootcamp Tutorial 3
+
+Skills learned:
+*Plotting equations vs. data points in Mathematica
+*What is the difference between ListPlot and Plot and when to use one versus the other
+
+Video url: http://youtu.be/P6To6lx_bLc
+
+Video Title: Welcome to Mathematica
+Length:6:38
+This video supplements: Biomechanics Bootcamp Tutorial 1 
+
+Skills learned:
+*Basic mathematica workflow - cell evaluation
+*How to write a comment
+*How to write a simple program (script)
+*What are functions and variables
+*How to access function help
+*How to make a list (array) of values
+*How to pull a value from a list (i.e. indexing)
+*How to create and index 2-dimensional lists (i.e. tables)
+
+Video url: http://youtu.be/UTM_FDBPEjc
+
+This video supplements: Biomechanics Bootcamp Tutorial 1 (Scaling)
+
+
+Video Title: How to Load Spreadsheet (text) Data to Mathematica
+Length: 3:30
+This video supplements: Biomechanics Bootcamp Tutorial 1
+
+Skills learned:
+*Import text (tab delimited) data into a mathematica table
+*How to check the data dimensions (number of rows & columns)
+*How to transpose data
+*How to make a simple scatter plot
+
+Video url: http://youtu.be/CEolAaIE8vw
+
+
+Video Title: How to do a linear regression (best fit line) of XY data in Mathematica 
+Length: 5:09
+This video supplements: Biomechanics Bootcamp Tutorial 1
+
+Skills learned:
+*How to generate data using the Table command
+*How to generate random numbers
+*How to simulate random noise (error) in data
+*How to plot x vs. y data (XY pairs)
+*How to do a linear regression model
+*How to plot a best fit line over scatter plot data
+*How to compute the r-squared value
+
+Video url: http://youtu.be/BypTzePw2lc
+
